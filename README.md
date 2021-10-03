@@ -41,6 +41,14 @@ For the purpose of this analysis we have picked up **Pet Products** as the choos
  
  ## Additional Analysis
  
+ Lets take a quick look at how many of the non vine reviews were verified purchases of the products they reviewed, surely a review by a purchaser can be believed more 
+  
+ <img width="694" alt="Verified_purchases" src="https://user-images.githubusercontent.com/85518330/135775727-91cf9057-1e53-4589-9b70-c4d570ccc824.png">
+
+**68%** of all non vine reviewers were verified purchasers of the product they reviewed.
+
+**57%** of these verified purchasers gave a 5Star rating  which is more than the **54%** by non vine reviewers and much much more than the **38%** for vine reviewers
+ 
 
  
 
